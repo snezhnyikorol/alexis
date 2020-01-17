@@ -54,6 +54,7 @@ section {
     font-weight: 600;
     font-size: 1.07rem;
     color: #ffffff;
+    -webkit-appearance: none;
 }
 
 input:focus {
