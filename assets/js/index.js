@@ -67,3 +67,4 @@ teamContainer.addEventListener('mouseover', event => {
   }
 });
 
+document.querySelector('video').load();
